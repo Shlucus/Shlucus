@@ -1,5 +1,12 @@
+![hackerBanner-ezgif com-crop](https://github.com/user-attachments/assets/5cb6d05d-3368-4bd3-8518-26c2ad98644d)
+
+
 # 💫 About Me:
-Hey! I'm a CompSci Student and Cybersecurity fanatic. Focusing on learning ethical hacking and software development using Python, JavaScript and C#👾
+Hey there, I’m Lucas👋🏼
+
+I’m an ambitious Computer Science student from John Abbott College and I love to experiment with cybersecurity and ethical hacking.
+
+From the age of 10, I began exploring tech by creating a YouTube channel to share Roblox coding tutorials and game bugs/exploits. Recognizing the countless hours I spent deepening my knowledge beyond the classroom, I set a lifelong goal to dive into the vast field of cybersecurity and contribute to its future, one step at a time.
 
 
 # 💻 Tech Stack:
