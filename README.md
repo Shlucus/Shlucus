@@ -4,7 +4,7 @@
 # 💫 About Me:
 Hey there, I’m Lucas👋🏼
 
-I’m an ambitious Computer Science student from John Abbott College and I love to experiment with cybersecurity and ethical hacking.
+I’m an ambitious Computer Science student at John Abbott College and I love to experiment with cybersecurity and ethical hacking.
 
 From the age of 10, I began exploring tech by creating a YouTube channel to share Roblox coding tutorials and game bugs/exploits. Recognizing the countless hours I spent deepening my knowledge beyond the classroom, I set a lifelong goal to dive into the vast field of cybersecurity and contribute to its future, one step at a time.
 
