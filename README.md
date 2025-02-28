@@ -16,5 +16,6 @@ From the age of 10, I began exploring tech by creating a YouTube channel to shar
 
 ![](https://github-readme-stats.vercel.app/api?username=Shlucus&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlucus&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Shlucus.png" alt="Your Image Badge" />
 
 </div>
